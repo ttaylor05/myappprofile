@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/myappprofile/static/css/main.bdabc941.chunk.css",
+    "main.css": "/myappprofile/static/css/main.1d5990c3.chunk.css",
     "main.js": "/myappprofile/static/js/main.d246fcdd.chunk.js",
     "main.js.map": "/myappprofile/static/js/main.d246fcdd.chunk.js.map",
     "runtime-main.js": "/myappprofile/static/js/runtime-main.a76a05b1.js",
@@ -10,14 +10,14 @@
     "static/js/3.1a70098b.chunk.js": "/myappprofile/static/js/3.1a70098b.chunk.js",
     "static/js/3.1a70098b.chunk.js.map": "/myappprofile/static/js/3.1a70098b.chunk.js.map",
     "index.html": "/myappprofile/index.html",
-    "static/css/main.bdabc941.chunk.css.map": "/myappprofile/static/css/main.bdabc941.chunk.css.map",
+    "static/css/main.1d5990c3.chunk.css.map": "/myappprofile/static/css/main.1d5990c3.chunk.css.map",
     "static/js/2.80b66f7e.chunk.js.LICENSE.txt": "/myappprofile/static/js/2.80b66f7e.chunk.js.LICENSE.txt",
     "static/media/calla-lilly.e7e2acf1.jpg": "/myappprofile/static/media/calla-lilly.e7e2acf1.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a76a05b1.js",
     "static/js/2.80b66f7e.chunk.js",
-    "static/css/main.bdabc941.chunk.css",
+    "static/css/main.1d5990c3.chunk.css",
     "static/js/main.d246fcdd.chunk.js"
   ]
 }
