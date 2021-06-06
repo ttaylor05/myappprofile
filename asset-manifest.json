@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.bdabc941.chunk.css",
-    "main.js": "/my-app/static/js/main.d246fcdd.chunk.js",
-    "main.js.map": "/my-app/static/js/main.d246fcdd.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.301896f8.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.301896f8.js.map",
-    "static/js/2.80b66f7e.chunk.js": "/my-app/static/js/2.80b66f7e.chunk.js",
-    "static/js/2.80b66f7e.chunk.js.map": "/my-app/static/js/2.80b66f7e.chunk.js.map",
-    "static/js/3.1a70098b.chunk.js": "/my-app/static/js/3.1a70098b.chunk.js",
-    "static/js/3.1a70098b.chunk.js.map": "/my-app/static/js/3.1a70098b.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/css/main.bdabc941.chunk.css.map": "/my-app/static/css/main.bdabc941.chunk.css.map",
-    "static/js/2.80b66f7e.chunk.js.LICENSE.txt": "/my-app/static/js/2.80b66f7e.chunk.js.LICENSE.txt",
-    "static/media/calla-lilly.e7e2acf1.jpg": "/my-app/static/media/calla-lilly.e7e2acf1.jpg"
+    "main.css": "/myappprofile/static/css/main.bdabc941.chunk.css",
+    "main.js": "/myappprofile/static/js/main.d246fcdd.chunk.js",
+    "main.js.map": "/myappprofile/static/js/main.d246fcdd.chunk.js.map",
+    "runtime-main.js": "/myappprofile/static/js/runtime-main.a76a05b1.js",
+    "runtime-main.js.map": "/myappprofile/static/js/runtime-main.a76a05b1.js.map",
+    "static/js/2.80b66f7e.chunk.js": "/myappprofile/static/js/2.80b66f7e.chunk.js",
+    "static/js/2.80b66f7e.chunk.js.map": "/myappprofile/static/js/2.80b66f7e.chunk.js.map",
+    "static/js/3.1a70098b.chunk.js": "/myappprofile/static/js/3.1a70098b.chunk.js",
+    "static/js/3.1a70098b.chunk.js.map": "/myappprofile/static/js/3.1a70098b.chunk.js.map",
+    "index.html": "/myappprofile/index.html",
+    "static/css/main.bdabc941.chunk.css.map": "/myappprofile/static/css/main.bdabc941.chunk.css.map",
+    "static/js/2.80b66f7e.chunk.js.LICENSE.txt": "/myappprofile/static/js/2.80b66f7e.chunk.js.LICENSE.txt",
+    "static/media/calla-lilly.e7e2acf1.jpg": "/myappprofile/static/media/calla-lilly.e7e2acf1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.301896f8.js",
+    "static/js/runtime-main.a76a05b1.js",
     "static/js/2.80b66f7e.chunk.js",
     "static/css/main.bdabc941.chunk.css",
     "static/js/main.d246fcdd.chunk.js"
